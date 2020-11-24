@@ -2,7 +2,7 @@
 title: RCC Structural work
 author: Dennis Brotzky
 date: 2019-04-30
-hero: ./images/hero.jpg
+hero: ./images/image-rcc-structure.jpg
 excerpt: Our RCC structures are stronger and last longer because we follow best practices with regard to foundation, excavation and earthwork, quality of cement and proper curing.
 ---
 
