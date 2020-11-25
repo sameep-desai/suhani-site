@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `We build to last for a lifetime. Welcome to Suhani constructions.`,
+      heading: `We build it to last a lifetime. Welcome to Suhani constructions.`,
       maxWidth: 652,
     },
     social: [
