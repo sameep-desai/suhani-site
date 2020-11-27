@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Suhani constructions`,
-    name: `Narative`,
+    name: `Suhani constructions`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `No.1 Construction contractor in Thane district, honest, quality construction`,
     hero: {
       heading: `We build it to last a lifetime. Welcome to Suhani constructions.`,
       maxWidth: 652,
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Suhani constructions`,
+        short_name: `Suhani`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
