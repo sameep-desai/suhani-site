@@ -8,7 +8,7 @@ import Icons from '@icons';
 import mediaqueries from '@styles/media';
 import { IAuthor } from '@types';
 
-import { GridLayoutContext } from './Articles.List.Context';
+import { GridLayoutContext } from '@narative/gatsby-theme-novela/src/sections/articles/Articles.List.Context';
 
 const authorQuery = graphql`
   {
