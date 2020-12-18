@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `No.1 Construction contractor in Thane district, honest, quality construction`,
     hero: {
-      heading: `We build it to last a lifetime. Welcome to Suhani constructions.`,
+      heading: `We build it to last a lifetime. Welcome to Suhani.`,
       maxWidth: 652,
     },
     social: [
@@ -13,10 +13,7 @@ module.exports = {
         name: `twitter`,
         url: `https://twitter.com/narative`,
       },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
+      
       {
         name: `instagram`,
         url: `https://instagram.com/narative.co`,
@@ -25,10 +22,7 @@ module.exports = {
         name: `linkedin`,
         url: `https://www.linkedin.com/company/narative/`,
       },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+      
     ],
   },
   plugins: [
