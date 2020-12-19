@@ -134,7 +134,7 @@ const HeroHeading = styled.h1`
   `}
 
   ${mediaqueries.phablet`
-    font-size: 27px;
+    font-size: 30px;
   `}
 `;
 
