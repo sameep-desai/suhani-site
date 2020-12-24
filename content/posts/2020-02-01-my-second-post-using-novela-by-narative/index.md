@@ -2,7 +2,7 @@
 title: Composite panel framing
 author: Dennis Brotzky
 date: 2020-04-30
-hero: ./images/composite-panelling.jpg
+hero: ./images/composite-panel-color-resized.jpg
 excerpt: Aluminium composite panels are flat panels that are made from aluminium composite material. These flat panels are made from two thin coil-coated aluminium sheets bonded to a non-aluminium core. Their high quality and lightweight cladding equips architects and builders versatility and style and gives them a broad range of design options.  Being light in weight, aluminium composite panels offer the robustness of heavy sheet metal at a much lowest cost.
 ---
 
