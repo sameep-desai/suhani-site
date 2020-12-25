@@ -1,5 +1,5 @@
 ---
-title: RCC Structural work
+title: RCC Structural Work
 author: Dennis Brotzky
 date: 2020-04-30
 hero: ./images/rcc-structure.jpg

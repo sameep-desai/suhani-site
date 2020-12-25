@@ -1,5 +1,5 @@
 ---
-title: Composite panel framing
+title: Composite Panel Framing
 author: Dennis Brotzky
 date: 2020-04-30
 hero: ./images/composite-panel-color-resized.jpg
