@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Suhani constructions`,
     name: `Suhani constructions`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://www.suhaniconstructions.com/`,
     description: `No.1 Construction contractor in Thane district, honest, quality construction`,
     hero: {
       heading: `We build it to last a lifetime. Welcome to Suhani constructions.`,
